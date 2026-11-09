@@ -8,8 +8,8 @@
 
 | Detail | Information |
 |---|---|
-| **Name** | Aditya Dnyaneshwar Garkal |
-| **PRN** | Enter your PRN |
+| **Name** | Prajwal Harish Potghan|
+| **PRN** | 125UAD1226|
 | **Class / Division** | SY – C |
 | **Programme** | B.Tech Artificial Intelligence & Data Science |
 | **Semester** | III |
